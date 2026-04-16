@@ -1,0 +1,1 @@
+id,dep_airport,arr_airport,airline,aircraft_type,dep_hour,month,day_of_week,weather_severity,wind_speed,visibility,congestion,distance,prev_delay,prediction,status,delay_minutes,confidence,probability,model_used,created_at
